@@ -9,5 +9,4 @@ public class RestWithSpringBootAndJavaErudioApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestWithSpringBootAndJavaErudioApplication.class, args);
 	}
-
 }
